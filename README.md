@@ -15,7 +15,7 @@ Me chamo weslley sousa, tenho 18 anos e moro no Rio de Janeiro. Atualmente curso
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:weslleyaraujo19022008@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](linkedin.com/in/weslley-araujo-7513533aa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/weslley-araujo-7513533aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5%2BVBCItMT9iyUYY3yPLReg%3D%3D)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/weslley_xc7/)
 
 
